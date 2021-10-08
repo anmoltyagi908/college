@@ -14,7 +14,7 @@ const Portfolio = ({ data }) => {
       
    <div className="columns download">
               <p>
-                <a href="https://drive.google.com/file/d/1VWEyl-w4N3T03bs4OhL_eN2KhsQ55igf/view?usp=drivesdk" className="button">
+                <a href="https://ibb.co/nRGDtnd" className="button">
                   <i className="fa fa-download"></i>Download
                 </a>
               </p>
@@ -26,7 +26,7 @@ const Portfolio = ({ data }) => {
       
    <div className="columns download">
               <p>
-                <a href="https://drive.google.com/file/d/1VS9Ap6YBDKAwXML6Rtimag2q8uJtL4rZ/view?usp=drivesdk" className="button">
+                <a href="https://ibb.co/LSyCtdY" className="button">
                   <i className="fa fa-download"></i>Download
                 </a>
               </p>
@@ -37,7 +37,7 @@ const Portfolio = ({ data }) => {
       
    <div className="columns download">
               <p>
-                <a href="https://drive.google.com/file/d/1WLKYODDEilBBTXZzvijxSrsFa3y8flJ7/view?usp=drivesdk" className="button">
+                <a href="https://ibb.co/pvbXWn6" className="button">
                   <i className="fa fa-download"></i>Download
                 </a>
               </p>
@@ -48,7 +48,7 @@ const Portfolio = ({ data }) => {
       
    <div className="columns download">
               <p>
-                <a href="https://drive.google.com/file/d/1WKaOdK09PgBKYyxtmCge4eooLp_wISu8/view?usp=drivesdk" className="button">
+                <a href="https://ibb.co/q9bRyWK" className="button">
                   <i className="fa fa-download"></i>Download
                 </a>
               </p>
@@ -59,7 +59,7 @@ const Portfolio = ({ data }) => {
       
    <div className="columns download">
               <p>
-                <a href= "https://drive.google.com/file/d/1WCix3QOLKnoFUWpmcrSWX_W0_pKWeGyh/view?usp=drivesdk" className="button">
+                <a href= "https://ibb.co/2F746dW" className="button">
                   <i className="fa fa-download"></i>Download
                 </a>
               </p>
@@ -71,7 +71,7 @@ const Portfolio = ({ data }) => {
       
    <div className="columns download">
               <p>
-                <a href="https://drive.google.com/file/d/1WCKpBL70yaBl3Y7FU9xGTJYSJRk8SxV_/view?usp=drivesdk" className="button">
+                <a href="https://ibb.co/bv9qtHH" className="button">
                   <i className="fa fa-download"></i>Download
                 </a>
               </p>
